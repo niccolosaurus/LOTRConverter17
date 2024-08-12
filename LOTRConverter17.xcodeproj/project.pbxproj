@@ -19,6 +19,7 @@
 		13D6DBC12C63046B002CC10E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		13D6DBC32C63046E002CC10E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		13D6DBC62C63046E002CC10E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		13D6DBCD2C69904B002CC10E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +36,7 @@
 		13D6DBB32C63046B002CC10E = {
 			isa = PBXGroup;
 			children = (
+				13D6DBCD2C69904B002CC10E /* README.md */,
 				13D6DBBE2C63046B002CC10E /* LOTRConverter17 */,
 				13D6DBBD2C63046B002CC10E /* Products */,
 			);
